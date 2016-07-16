@@ -1,4 +1,4 @@
-omids.github.io
+My GitHub Page
 ===============
 
 Omid's works!
