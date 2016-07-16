@@ -1,0 +1,6 @@
+{
+  "name": "Omid'S GitHub",
+  "tagline": "Omid's works!",
+  "body": "# Welcome to My GitHub\r\n\r\n## Projects\r\n### Quick SSVEP\r\nQuick SSVEP is a web-based application that provides easy to setup SSVEP (Steady State Visually Evoked Potential) stimulation interfaces.\r\n\r\n[![Click to run it](https://github.com/OmidS/quickssvep/raw/master/img/play.png) Run it!](https://omids.github.io/quickssvep/)\r\n\r\n[![Source](https://github.com/themes/merlot/images/octocat.png) Source](https://github.com/OmidS/quickssvep)\r\n\r\n### Onlinify\r\nA MATLAB toolbox for online analysis of EEG data recorded with [BCI2000](http://www.schalklab.org/research/bci2000). It uses [Fieldtrip Buffer](http://www.fieldtriptoolbox.org/) to transfer data to MATLAB in real-time. \r\n\r\n[![Source](https://github.com/themes/merlot/images/octocat.png) Source](https://github.com/OmidS/onlinify)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
